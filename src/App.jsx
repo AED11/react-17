@@ -1,6 +1,10 @@
 import "./App.css"
 export default function App(){
   return <div>
+    <h1>MAGASAN</h1>
+    <h1>MAGA</h1>
+    <h1>MAGA</h1> 
+
     <h1>Hello World </h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius ab ratione eaque ex aperiam voluptatum itaque maxime a consequatur, et est vel voluptas in tempore. Aspernatur quam labore reiciendis neque?
     Minima delectus, recusandae, earum aspernatur officia amet optio autem laborum inventore placeat cum. Quasi, tempore voluptatibus et accusantium, numquam recusandae porro facilis quaerat exercitationem inventore minus nulla. Cum, odio? Tempora?
