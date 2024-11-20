@@ -1,0 +1,21 @@
+.radius{
+    background-color: dodgerblue;
+    height: 160px;
+    width: 160px;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    height: 30px;
+    width: 50%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    border: none;
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 0px 0px 3px 0px black;
+}
