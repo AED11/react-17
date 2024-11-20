@@ -1,3 +1,4 @@
+import "./App.css"
 export default function App(){
   return <div>
     <h1>Hello World </h1>
@@ -301,5 +302,14 @@ export default function App(){
     Veniam at nisi temporibus blanditiis magni eius eligendi, dignissimos molestiae iure obcaecati amet suscipit alias dolor impedit earum deserunt ex, officia mollitia labore dolorum illum aut quae. Assumenda, quasi natus!
     Quia nisi molestias, cum similique odit ipsum ex placeat, ipsa culpa sit ullam minus ipsam dignissimos quod, aut hic nobis modi dolores? In, voluptate. Magnam vero reprehenderit officia modi fuga.
     Fugiat, libero? Accusantium iusto exercitationem quae minima maiores deserunt fugit eos ab a optio nihil, quam repudiandae quasi odit sunt, fuga dolore? Nostrum nemo ducimus autem porro? Ratione, eaque quo?</p>
+    <h1>Hello world</h1>
+   <h2>Hello world</h2>
+   <h3>Hello world</h3>
+   <h4>Hello world</h4>
+   <h5>Hello world</h5>
+
+   
+   
+    <div className="radius"><button className="btn">SHUHRAT</button></div>
   </div>
 }
