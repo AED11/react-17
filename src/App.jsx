@@ -1,3 +1,4 @@
+import "./App.css"
 export default function App(){
   return <div>
     <h1>Hello world</h1>
@@ -8,5 +9,6 @@ export default function App(){
 
    
    
+    <div className="radius"><button className="btn">SHUHRAT</button></div>
   </div>
 }
