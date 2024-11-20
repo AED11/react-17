@@ -1,6 +1,8 @@
 import "./App.css"
 export default function App(){
   return <div>
+  {/* Marhabo editted this file максад .  */}
+    
      <h1>Helloe React 17</h1>
      <p>123</p>
     <h1>MAGASAN</h1>
