@@ -5,7 +5,6 @@ export default function App(){
    <h3>Hello world</h3>
    <h4>Hello world</h4>
    <h5>Hello world</h5>
-   <h6>Hello world</h6>
 
    
    
